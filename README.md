@@ -9,6 +9,7 @@ Notes:
 * If there is any error with the file holding login file. Please refer to line 24 of LoginPage.py
 
 * To run the main file "LoginPage.py" on another file, please copy this:
+
     import LoginPage as login
 
     if login.done == True:
