@@ -13,6 +13,7 @@ Notes:
     import LoginPage as login
 
     if login.done == True:
+        
         #Do something
-        ''
+        
 
