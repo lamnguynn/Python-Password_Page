@@ -8,6 +8,7 @@ Just some programs I made for fun in Python.
 To run the main file "PasswordPage.py" on another file, please copy this:
 
 import PasswordPage as pwpage
+
 if pwpage.done == True:
     print("")
 
